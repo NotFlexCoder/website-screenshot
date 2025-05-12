@@ -65,12 +65,6 @@ This lightweight Node.js (Next.js) API endpoint captures and returns a screensho
 - Missing `url` query parameter: returns `400 Bad Request`.
 - Screenshot API fails: returns `500 Internal Server Error`.
 
-## 🛠️ Setup Guide
-
-Watch the following video to learn how to host this API and integrate it into your projects 👇
-
-[![Watch the video](https://img.youtube.com/vi/NOVCSXr9yOc/hqdefault.jpg)](https://youtu.be/NOVCSXr9yOc)
-
 ## 📝 License
 
 This project is licensed under the MIT License – see the [LICENSE](https://github.com/NotFlexCoder/advice-api/blob/main/LICENSE) file for details.
